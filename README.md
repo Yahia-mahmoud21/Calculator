@@ -12,5 +12,14 @@ This project was a **great learning experience**, especially designing an intuit
 
 ---
 
+### Screenshots 📷
+
+| Simple | Advanced |
+| [!Simple](simpla.png) | [!Advanced](advanced.png) |
+
+
+
+---
+
 ### Connect with me 📲
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yahia-mahmoud-530223312?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
