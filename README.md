@@ -15,7 +15,8 @@ This project was a **great learning experience**, especially designing an intuit
 ### Screenshots 📷
 
 | Simple | Advanced |
-| [!Simple](simpla.png) | [!Advanced](advanced.png) |
+|--------|----------|
+| ![Simple](simple.png) | ![Advanced](advanced.png) |
 
 
 
